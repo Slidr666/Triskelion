@@ -16,11 +16,15 @@ Releases will happen in 3 three stages (although development will happen simulta
 - Strong part cooling for PLA (0%)
 - Klipper Firmware (0%)
 - Optical/Magnetic Endstops (0%)
+- Bowden Routing / Wiring (0%)
 - Manual (0%)
+- BOM (0%)
 
 ### Stage 2: ABS Capability & Enclosure (0%)
 - Fully Enclosed for ABS (0%)
 - Manual (0%)
+- BOM (0%)
+
 
 ### Stage 3: Comfort Features (0%)
 - Multimaterial Color with 3 Filaments (0%) on Flying Extruder
@@ -28,6 +32,8 @@ Releases will happen in 3 three stages (although development will happen simulta
 - Light (0%)
 - Display (0%)
 - Manual (0%)
+- BOM (0%)
+
 
 ## Design Decisions
 - Motors: Top|Bottom --> 
