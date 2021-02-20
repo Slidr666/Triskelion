@@ -4,7 +4,7 @@ is a Voron (https://vorondesign.com/) inspired Delta / Kossel style 3D printer b
 ## Features and Progress
 Releases will happen in 3 three stages (although development will happen simultaneously).
 
-### Stage 1: Basic Functionaly (PLA) (0%)
+### Stage 1: Basic Functionality (PLA) (0%)
 - Frame (0%)
 - Belt Tensioning System (0%)
 - Effector / Dragon Hot End (0%)
